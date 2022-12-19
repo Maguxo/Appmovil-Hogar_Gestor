@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Magucho</string>
+    <string name="welcome">¡WELCOME!</string>
+    <string name="into">GET INTO</string>
+    <string name="email">EMAIL</string>
+    <string name="password">PASSWORD</string>
+    <string name="push">PUSH</string>
+    <string name="profile">PROFILE</string>
+    <string name="get_out">GET OUT</string>
+    <string name="Library">LIBRARY</string>
+    <string name="menu">MENU</string>
+    <string name="abaut">ABAUT</string>
+    <string name="nota">LOOK AT</string>
+    <string name="developer">DEVELLOPER</string>
+    <string name="text">THIS  APLICAATION HAS THE FUNTION OF LOOKING AT SOME ACTIVITIES THAT
+        COULD BE DONE, FOR EXAMPLE, LOGGING IN THROUGH AN EXISTING GOOGLE ACCOUNT AND USING FIREBASE
+        TO SAVE CONCURRENT DATA SUCH AS AN IMAGE WITH CHARACTERISTIC RECORDS OF A BOOK.
+    </string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="developer_2">DEVELOPER BY MAGUCHO</string>
+    <string name="FIREBASE">REGISTER FIREBASE</string>
+    <string name="title_txt">TITLE</string>
+    <string name="presio_txt">COST</string>
+    <string name="genero_txt">GENDER</string>
+    <string name="año_txt">YEAR</string>
+    <string name="add">ADD</string>
+    <string name="not_delete">CAN´T BE DELETE</string>
+    <string name="ok_delete"> DELETE</string>
+    <string name="not_date">ERROR GETTING DATA</string>
+    <string name="load_photo">LOADING PHOTO</string>
+    <string name="load_error">ERROR UPDATING</string>
+    <string name="load_ok">UPDATING OK</string>
+    <string name="up_pload">UPLOAD PHOTO</string>
+    <string name="up_error">ERROR UPDATING </string>
+    <string name="to_register">REGISTERED</string>
+    <string name="error_register">ERROR TO REGISTER</string>
+    <string name="actualiza">UPDATED</string>
+    <string name="actualiza_no">ERROR TO UPDATING</string>
+    <string name="enter_d">ENTER DATA</string>
+    <string name="delete_photo">DELETE PHOTO</string>
+    <string name="yes_bo">YES</string>
+    <string name="no_bo">KEEP WORKING</string>
+    <string name="register">REGISTERED</string>
+    <string name="register_NO">ERROR TO REGISTERED</string>
+    <string name="IN_P">ERROR GET INTO</string>
+    <string name="salir">GET OUT</string>
+    <string name="salir_out">¿DO YOU WANT TO GO OUT?</string>
+    <string name="bienvenida_in">WELCOME TO THIS APP</string>
+    <string name="thank">THANK YOU</string>
+    <string name="option">LOGIN OR DATA BESE</string>
+
+
+
+
+</resources>

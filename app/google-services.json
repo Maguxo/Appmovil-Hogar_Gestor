@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "619572470658",
+    "firebase_url": "https://magucho-3be65-default-rtdb.firebaseio.com",
+    "project_id": "magucho-3be65",
+    "storage_bucket": "magucho-3be65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619572470658:android:623e667e4c9fb3b9bd659b",
+        "android_client_info": {
+          "package_name": "com.example.magucho"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619572470658-htuj1cr2b4spakjf0miv1sh6v8hshk0j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.magucho",
+            "certificate_hash": "7dd9cb9184fb5859239af2c71af0b5acb87fe583"
+          }
+        },
+        {
+          "client_id": "619572470658-r1o1oblkddufj5cklibi1e4gf8j99ja8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjCyhs_eEb5uSMDYZ7f_Cc8gDsuRUg0TY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619572470658-r1o1oblkddufj5cklibi1e4gf8j99ja8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

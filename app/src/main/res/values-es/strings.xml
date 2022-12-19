@@ -1,0 +1,60 @@
+
+<resources>
+    <string name="app_name">Magucho</string>
+    <string name="welcome">¡BIENVENIDOS!</string>
+    <string name="into">INGRESAR</string>
+    <string name="email">EMAIL</string>
+    <string name="password">CONTRASEÑA</string>
+    <string name="push">PRESIONE</string>
+    <string name="profile">PERFIL</string>
+    <string name="get_out">SALIR</string>
+    <string name="Library">LIBRERIA</string>
+    <string name="menu">MENÚ</string>
+    <string name="abaut">ACERCA DE</string>
+    <string name="nota">ADICIONAL</string>
+    <string name="developer">DESARROLLADOR</string>
+    <string name="text">ESTA APLICACIÓN TIENE COMO FUNCION DE MOSTRAR ALGUNAS ACTIVIDADES QUE ESTA REALIZA
+    COMO POR EJEMPLO LOGEAR SE MEDIANTE UNA CUENTA EXISTENTE POR MEDIO DE GOOGLE Y USANDO FIREBASE
+    PARA GUARDAR DATOS CONCURRENTES COMO LO ES UNA IMAGEN CON REGISTROS CARACTERISTICOS DE UN LIBRO.
+    </string>
+    <string name="open">Open</string>
+    <string name="close">close</string>
+    <string name="developer_2">DESARROLLADO POR MAGUCHO</string>
+    <string name="FIREBASE">REGISTRO EN FIREBASE</string>
+    <string name="title_txt">TITULO</string>
+    <string name="presio_txt">PRESIO</string>
+    <string name="genero_txt">GENERO</string>
+    <string name="año_txt">AÑO</string>
+    <string name="add">AÑADIR</string>
+    <string name="not_delete">NO SE PUDO ELIMINAR</string>
+    <string name="ok_delete">ELIMINADO</string>
+    <string name="not_date">NO SE PUDO OPTENER DATOS</string>
+    <string name="load_photo">CARGANDO FOTO</string>
+    <string name="load_error">ERROR AL ACTUALIZAR</string>
+    <string name="load_ok">FOTO ACTIALIZADA</string>
+    <string name="up_pload">FOTO SUBIDA</string>
+    <string name="up_error">ERROR AL SUBIR FOTO</string>
+    <string name="to_register">REGISTRADO</string>
+    <string name="error_register">NO SE PUDO REGISTRAR</string>
+    <string name="actualiza">ACTUALIZADO</string>
+    <string name="actualiza_no">ERROR AL ACTUALIZAR</string>
+    <string name="enter_d">INGRESE DATOS</string>
+    <string name="delete_photo">FOTO ELIMINADA</string>
+    <string name="yes_bo">SI</string>
+    <string name="no_bo">CONTINUAR TRABAJANDO</string>
+    <string name="register">REGISTRADO</string>
+    <string name="register_NO">ERROR AL REGISTRAR</string>
+    <string name="IN_P">NO SE PUEDE INGRESAR</string>
+    <string name="salir">SALIR</string>
+    <string name="salir_out">¿SEGURO QUE QUIERE SALIR?</string>
+    <string name="bienvenida_in">BIENVENIDO A ESTA APP</string>
+    <string name="thank">GRACIAS</string>
+    <string name="option">LOGEATE O BASE DE DATOS</string>
+
+
+
+
+
+
+
+</resources>

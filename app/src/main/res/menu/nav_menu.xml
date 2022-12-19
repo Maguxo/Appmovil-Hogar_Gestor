@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item
+        android:id="@+id/nav_presentacion"
+        android:icon="@drawable/ic_front_hand"
+        android:title="@string/abaut"/>
+
+    <item
+        android:id="@+id/nav_nota"
+        android:icon="@drawable/ic_book"
+        android:title="@string/nota"/>
+    <item
+        android:id="@+id/nav_abaut"
+        android:icon="@drawable/hand2"
+        android:title="@string/developer"/>
+
+</menu>
